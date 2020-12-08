@@ -1,0 +1,9 @@
+[submodule "holidayapp-ui"]
+	path = holidayapp-ui
+	url = https://github.com/sf-fresher-batch-2020/holidayapp-ui.git
+[submodule "holidayplannerapp-api"]
+	path = holidayplannerapp-api
+	url = https://github.com/sf-fresher-batch-2020/holidayplannerapp-api.git
+[submodule "holidaytourapp-angular-ui"]
+	path = holidaytourapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/holidaytourapp-angular-ui.git
