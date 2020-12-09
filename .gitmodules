@@ -7,3 +7,6 @@
 [submodule "holidaytourapp-angular-ui"]
 	path = holidaytourapp-angular-ui
 	url = https://github.com/sf-fresher-batch-2020/holidaytourapp-angular-ui.git
+[submodule "holidayapp-mock-api"]
+	path = holidayapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/holidayapp-mock-api.git
